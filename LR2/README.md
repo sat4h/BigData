@@ -36,3 +36,9 @@
 Сохранение отчета в формате Apache Parquet.
 
 ![image](https://github.com/sat4h/BigData/assets/146749026/8a47692e-7b62-43c7-ba02-0fdddde4320b)
+
+![image](https://github.com/sat4h/BigData/assets/146749026/7245809a-add7-419d-a669-7dd4f7e12cc2)
+![image](https://github.com/sat4h/BigData/assets/146749026/9b09b122-6134-44a8-970b-dc1edbf4819e)
+![image](https://github.com/sat4h/BigData/assets/146749026/a17f6e16-7dbc-4857-a378-4425cf229d73)
+
+
