@@ -8,3 +8,31 @@
 
 2. Получившийся отчёт сохранить в формате Apache Parquet.
 
+Лабораторная работа выполнялась в Google colab.
+Для начала установил PySpark
+
+![image](https://github.com/sat4h/BigData/assets/146749026/2a808c0e-2138-4e61-99ed-1863dc3a49bf)
+
+И другие требуемые библиотеки для выполнения задания
+
+![image](https://github.com/sat4h/BigData/assets/146749026/44ed80b2-fc2f-40dc-8bfd-94ebac0578cd)
+
+Языки программирования загружал в google drive 
+
+![image](https://github.com/sat4h/BigData/assets/146749026/b04377e6-2771-43a2-907f-79a34d5749b8)
+
+Создаем объект SparkSession с именем 'lb2', который будет использоваться для выполнения операций и обработки данных в Spark.
+
+![image](https://github.com/sat4h/BigData/assets/146749026/11e8d714-ecef-4ae5-a809-1e19e983a778)
+
+Добавил функции обработки данных
+
+![image](https://github.com/sat4h/BigData/assets/146749026/97f0e870-cda0-4c29-8ab7-e19375e4c31c)
+
+Обработка данных и вывод:
+
+![image](https://github.com/sat4h/BigData/assets/146749026/dec4583e-8850-4492-9dd5-f3c16d15c8c4)
+
+Сохранение отчета в формате Apache Parquet.
+
+![image](https://github.com/sat4h/BigData/assets/146749026/8a47692e-7b62-43c7-ba02-0fdddde4320b)
