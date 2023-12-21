@@ -12,6 +12,11 @@
 
 ![image](https://github.com/sat4h/BigData/assets/146749026/5e27f9ca-247a-49bc-a88a-7f1678c2e2cd)
 
+4. Для вывода всех возможных команд help
+
+![image](https://github.com/sat4h/BigData/assets/146749026/56a6a152-4966-463b-bd38-c0ba67611053)
+
+Создам узлы ph, commit. Выйду из консоли.
 
 ![image](https://github.com/sat4h/BigData/assets/146749026/b47027ec-5f4e-4bf4-861d-8273e670fba0)
 
