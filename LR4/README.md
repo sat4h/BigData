@@ -22,9 +22,10 @@
 
 **1.Задача о философах**
 
-![image](https://github.com/sat4h/BigData/assets/146749026/067305fb-e217-4145-b9c4-ce0e6442f490)
+![image](https://github.com/sat4h/BigData/assets/146749026/625fffd0-862f-4d54-9f8f-997a6745c3b0)
 
 **2. Задача о коммите**
 
-![image](https://github.com/sat4h/BigData/assets/146749026/f3dc03f0-0dcf-4d31-8ad0-5c3423207a7a)
+![image](https://github.com/sat4h/BigData/assets/146749026/26445893-27e0-4f2b-9c92-ed08ed016ba0)
+
 
