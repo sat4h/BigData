@@ -20,11 +20,11 @@
 
 ![image](https://github.com/sat4h/BigData/assets/146749026/b47027ec-5f4e-4bf4-861d-8273e670fba0)
 
-**1.Задача о философах:**
+**1.Задача о философах**
 
 ![image](https://github.com/sat4h/BigData/assets/146749026/067305fb-e217-4145-b9c4-ce0e6442f490)
 
-**2. Задача о коммите"**
+**2. Задача о коммите**
 
 ![image](https://github.com/sat4h/BigData/assets/146749026/f3dc03f0-0dcf-4d31-8ad0-5c3423207a7a)
 
